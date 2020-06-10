@@ -9,15 +9,13 @@ The dataset can be found at [https://drive.google.com/drive/folders/1aqTiRgFq1pG
 ### Details 
 
 There are two files in the above link. "train.json" is meant for training whereas "test.json" is meant for evaluation.
-Each line in the file is a json consisting the following keys:
-```
+Each line in the file is a json consisting the following keys:`
 | Key | Description |
 |-----|-------------|
 | id  | Id of the example|
 | context | Text of the post |
 | cquestion | The corresponding clarification question to the post |
 | answer | The answer to the post |
-``` 
 
 ## License
 
