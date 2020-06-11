@@ -1,6 +1,6 @@
 # ClarQ: A large-scale and diverse dataset for Clarification Question Generation
 
-This dataset is meant for training and evaluation of Clarification Question Generation Systems. The details and the methodology used in the creation of the dataset can be found in the paper.
+This dataset is meant for training and evaluation of Clarification Question Generation Systems. The details and the methodology used in the creation of the dataset can be found in the [paper](https://arxiv.org/abs/2006.05986).
 
 ## Link to the Dataset
 
