@@ -1,6 +1,6 @@
 # ClarQ: A large-scale and diverse dataset for Clarification Question Generation
 
-This dataset is meant for training and evaluation of Clarification Question Generation Systems. The details and the methodology used in the creation of the dataset can be found in the [paper](https://arxiv.org/abs/2006.05986).
+This dataset is meant for training and evaluation of Clarification Question Generation Systems. The details and the methodology used in the creation of the dataset can be found in the [paper](https://arxiv.org/abs/2006.05986). The work was published in ACL 2020.
 
 ## Link to the Dataset
 
@@ -25,11 +25,12 @@ This dataset is licensed under the Creative Commons Attribution 4.0 Internationa
 ## References
 If you find the data useful and use it for your work, please consider citing the following:
 ```
-@inproceedings{kumar2020clarq,
-  title={ClarQ: A large-scale and diverse dataset for Clarification Question Generation},
-  author={Kumar, Vaibhav and W Black, Alan},
-  booktitle={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics },
-  year={2020}
+@misc{kumar2020clarq,
+    title={ClarQ: A large-scale and diverse dataset for Clarification Question Generation},
+    author={Vaibhav Kumar and Alan W. black},
+    year={2020},
+    eprint={2006.05986},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
 }
-
 ```
